@@ -1,0 +1,82 @@
+{
+  "plugin": {
+    "totalDownloads": 1789,
+    "stargazers": 18,
+    "createdAt": "2025-03-31T10:42:53Z",
+    "latestReleaseAt": "2026-05-04T08:41:32Z",
+    "lastCommitDate": "2026-05-04T08:41:16Z",
+    "commitCountInLast24Months": 30,
+    "totalReleases": 8,
+    "releases": [
+      {
+        "publishedAt": "2025-03-31T11:27:38Z",
+        "downloads": 5
+      },
+      {
+        "publishedAt": "2025-04-23T02:18:17Z",
+        "downloads": 6
+      },
+      {
+        "publishedAt": "2025-04-28T02:06:32Z",
+        "downloads": 32
+      },
+      {
+        "publishedAt": "2025-05-15T23:32:33Z",
+        "downloads": 45
+      },
+      {
+        "publishedAt": "2025-05-17T05:33:20Z",
+        "downloads": 1020
+      },
+      {
+        "publishedAt": "2025-12-12T01:10:05Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2025-12-12T02:10:28Z",
+        "downloads": 669
+      },
+      {
+        "publishedAt": "2026-05-04T08:41:32Z",
+        "downloads": 1
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-05-23T15:05:02Z",
+        "closedAt": "2025-07-16T23:59:29Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-06-16T07:14:52Z",
+        "closedAt": "2025-07-17T00:10:45Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-07-22T11:19:17Z",
+        "closedAt": "2025-08-20T05:23:32Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2025-12-11T18:16:47Z",
+        "closedAt": "2025-12-12T00:49:36Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "not_planned",
+        "createdAt": "2026-01-08T22:05:43Z",
+        "closedAt": "2026-05-04T08:37:59Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-05-04T08:57:26.229Z"
+}

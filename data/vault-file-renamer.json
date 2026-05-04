@@ -1,0 +1,82 @@
+{
+  "plugin": {
+    "totalDownloads": 1385,
+    "stargazers": 11,
+    "createdAt": "2025-02-24T17:48:27Z",
+    "latestReleaseAt": "2026-04-27T23:43:56Z",
+    "lastCommitDate": "2026-04-27T23:43:56Z",
+    "commitCountInLast24Months": 22,
+    "totalReleases": 7,
+    "releases": [
+      {
+        "publishedAt": "2025-02-24T18:43:08Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2025-02-25T14:43:53Z",
+        "downloads": 420
+      },
+      {
+        "publishedAt": "2025-08-22T13:57:23Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2025-08-22T14:08:29Z",
+        "downloads": 348
+      },
+      {
+        "publishedAt": "2025-12-16T02:20:08Z",
+        "downloads": 484
+      },
+      {
+        "publishedAt": "2026-04-26T02:48:44Z",
+        "downloads": 43
+      },
+      {
+        "publishedAt": "2026-04-27T23:43:56Z",
+        "downloads": 80
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2025-08-21T13:31:40Z",
+        "closedAt": "2025-08-23T14:34:50Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-02-09T01:16:55Z",
+        "closedAt": "2026-04-27T23:44:20Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-03-24T19:33:23Z",
+        "closedAt": "2026-04-27T23:44:13Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-04-27T06:07:10Z",
+        "closedAt": "2026-05-02T03:11:43Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [
+      {
+        "createdAt": "2025-02-24T17:49:42Z",
+        "closedAt": "2025-02-24T18:08:22Z"
+      }
+    ],
+    "mergedPRs": [
+      {
+        "createdAt": "2025-08-22T14:02:50Z",
+        "mergedAt": "2025-08-22T14:03:39Z"
+      }
+    ]
+  },
+  "now": "2026-05-04T08:57:01.925Z"
+}
