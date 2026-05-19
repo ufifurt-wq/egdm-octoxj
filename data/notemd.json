@@ -1,0 +1,214 @@
+{
+  "plugin": {
+    "totalDownloads": 3861,
+    "stargazers": 196,
+    "createdAt": "2025-04-17T15:33:30Z",
+    "latestReleaseAt": "2026-05-13T13:13:24Z",
+    "lastCommitDate": "2026-05-18T08:27:26Z",
+    "commitCountInLast24Months": 559,
+    "totalReleases": 41,
+    "releases": [
+      {
+        "publishedAt": "2025-04-20T14:39:17Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2025-04-17T15:42:32Z",
+        "downloads": 198
+      },
+      {
+        "publishedAt": "2025-06-20T13:46:19Z",
+        "downloads": 337
+      },
+      {
+        "publishedAt": "2025-07-12T03:37:12Z",
+        "downloads": 68
+      },
+      {
+        "publishedAt": "2025-07-17T06:14:55Z",
+        "downloads": 163
+      },
+      {
+        "publishedAt": "2025-07-31T15:34:30Z",
+        "downloads": 450
+      },
+      {
+        "publishedAt": "2025-09-30T08:15:35Z",
+        "downloads": 377
+      },
+      {
+        "publishedAt": "2025-11-12T09:34:13Z",
+        "downloads": 80
+      },
+      {
+        "publishedAt": "2025-11-17T07:28:56Z",
+        "downloads": 174
+      },
+      {
+        "publishedAt": "2025-12-26T06:54:05Z",
+        "downloads": 22
+      },
+      {
+        "publishedAt": "2025-12-30T08:30:18Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2026-01-26T13:22:04Z",
+        "downloads": 6
+      },
+      {
+        "publishedAt": "2026-01-27T12:40:15Z",
+        "downloads": 4
+      },
+      {
+        "publishedAt": "2026-01-27T12:58:43Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2026-01-28T04:46:52Z",
+        "downloads": 431
+      },
+      {
+        "publishedAt": "2026-03-25T09:50:21Z",
+        "downloads": 22
+      },
+      {
+        "publishedAt": "2026-03-26T12:16:02Z",
+        "downloads": 5
+      },
+      {
+        "publishedAt": "2026-03-26T12:50:58Z",
+        "downloads": 9
+      },
+      {
+        "publishedAt": "2026-03-27T00:33:53Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-03-27T01:05:47Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-03-27T01:17:39Z",
+        "downloads": 6
+      },
+      {
+        "publishedAt": "2026-03-27T01:51:51Z",
+        "downloads": 6
+      },
+      {
+        "publishedAt": "2026-03-27T03:24:09Z",
+        "downloads": 4
+      },
+      {
+        "publishedAt": "2026-03-27T04:50:55Z",
+        "downloads": 62
+      },
+      {
+        "publishedAt": "2026-03-29T15:30:46Z",
+        "downloads": 21
+      },
+      {
+        "publishedAt": "2026-03-30T08:26:46Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2026-03-30T09:51:34Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2026-03-30T10:27:10Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2026-03-30T11:45:50Z",
+        "downloads": 4
+      },
+      {
+        "publishedAt": "2026-03-30T12:21:41Z",
+        "downloads": 4
+      },
+      {
+        "publishedAt": "2026-03-30T12:34:25Z",
+        "downloads": 218
+      },
+      {
+        "publishedAt": "2026-04-09T11:48:19Z",
+        "downloads": 136
+      },
+      {
+        "publishedAt": "2026-04-13T15:54:29Z",
+        "downloads": 36
+      },
+      {
+        "publishedAt": "2026-04-14T05:05:33Z",
+        "downloads": 455
+      },
+      {
+        "publishedAt": "2026-05-01T13:21:19Z",
+        "downloads": 76
+      },
+      {
+        "publishedAt": "2026-05-03T08:31:58Z",
+        "downloads": 16
+      },
+      {
+        "publishedAt": "2026-05-08T08:19:20Z",
+        "downloads": 119
+      },
+      {
+        "publishedAt": "2026-05-10T14:13:56Z",
+        "downloads": 57
+      },
+      {
+        "publishedAt": "2026-05-11T14:14:27Z",
+        "downloads": 28
+      },
+      {
+        "publishedAt": "2026-05-12T14:35:40Z",
+        "downloads": 50
+      },
+      {
+        "publishedAt": "2026-05-13T13:13:24Z",
+        "downloads": 187
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-04-22T01:17:31Z",
+        "closedAt": "2025-04-22T07:24:54Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-07-13T12:31:51Z",
+        "closedAt": "2025-07-13T14:04:53Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-07-26T12:23:34Z",
+        "closedAt": "2025-08-01T12:21:44Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-08-01T01:37:57Z",
+        "closedAt": "2025-08-04T07:13:15Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-01-27T15:14:57Z",
+        "closedAt": "2026-01-28T08:38:54Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-05-19T01:43:25.150Z"
+}

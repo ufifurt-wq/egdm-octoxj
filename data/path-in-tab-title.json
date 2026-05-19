@@ -1,0 +1,31 @@
+{
+  "plugin": {
+    "totalDownloads": 22,
+    "stargazers": 0,
+    "createdAt": "2026-04-22T01:36:24Z",
+    "latestReleaseAt": "2026-04-22T22:30:18Z",
+    "lastCommitDate": "2026-04-22T22:29:56Z",
+    "commitCountInLast24Months": 31,
+    "totalReleases": 3,
+    "releases": [
+      {
+        "publishedAt": "2026-04-22T15:39:25Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-22T15:50:22Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-04-22T22:30:18Z",
+        "downloads": 21
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-05-19T01:46:57.017Z"
+}

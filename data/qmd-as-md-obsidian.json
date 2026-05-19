@@ -1,0 +1,102 @@
+{
+  "plugin": {
+    "totalDownloads": 9399,
+    "stargazers": 108,
+    "createdAt": "2022-05-31T22:05:55Z",
+    "latestReleaseAt": "2026-05-17T12:45:19Z",
+    "lastCommitDate": "2026-05-17T12:44:55Z",
+    "commitCountInLast24Months": 121,
+    "totalReleases": 15,
+    "releases": [
+      {
+        "publishedAt": "2022-10-16T12:32:11Z",
+        "downloads": 4618
+      },
+      {
+        "publishedAt": "2025-01-02T21:10:48Z",
+        "downloads": 4498
+      },
+      {
+        "publishedAt": "2026-05-08T01:11:43Z",
+        "downloads": 4
+      },
+      {
+        "publishedAt": "2026-05-12T22:31:39Z",
+        "downloads": 66
+      },
+      {
+        "publishedAt": "2026-05-14T14:15:55Z",
+        "downloads": 9
+      },
+      {
+        "publishedAt": "2026-05-14T15:12:44Z",
+        "downloads": 4
+      },
+      {
+        "publishedAt": "2026-05-14T17:51:38Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2026-05-14T18:35:57Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-05-14T18:58:44Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2026-05-14T19:09:30Z",
+        "downloads": 74
+      },
+      {
+        "publishedAt": "2026-05-16T12:18:37Z",
+        "downloads": 17
+      },
+      {
+        "publishedAt": "2026-05-16T21:05:55Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-05-16T22:50:01Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-05-16T23:06:20Z",
+        "downloads": 20
+      },
+      {
+        "publishedAt": "2026-05-17T12:45:19Z",
+        "downloads": 80
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "feature_request",
+        "createdAt": "2023-10-18T01:45:40Z"
+      }
+    ],
+    "closedIssues": [
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2024-02-28T10:32:33Z",
+        "closedAt": "2026-05-14T14:16:55Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-02-28T23:37:59Z",
+        "closedAt": "2026-05-14T15:32:04Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [
+      {
+        "createdAt": "2023-04-16T19:25:02Z",
+        "closedAt": "2025-01-02T21:19:06Z"
+      }
+    ],
+    "mergedPRs": []
+  },
+  "now": "2026-05-19T01:49:45.775Z"
+}
