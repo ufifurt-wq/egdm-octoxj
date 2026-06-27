@@ -1,0 +1,179 @@
+{
+  "plugin": {
+    "totalDownloads": 135,
+    "stargazers": 2,
+    "createdAt": "2026-04-25T18:18:27Z",
+    "latestReleaseAt": "2026-06-22T20:07:22Z",
+    "lastCommitDate": "2026-06-26T05:01:32Z",
+    "commitCountInLast24Months": 99,
+    "totalReleases": 40,
+    "releases": [
+      {
+        "publishedAt": "2026-06-03T12:14:47Z",
+        "downloads": 8
+      },
+      {
+        "publishedAt": "2026-06-05T01:30:29Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-06-05T02:15:25Z",
+        "downloads": 4
+      },
+      {
+        "publishedAt": "2026-06-05T15:56:04Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-06-08T09:29:29Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-06-08T16:28:52Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-06-08T17:30:37Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2026-06-08T19:53:56Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-06-08T20:20:06Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-06-08T21:01:37Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-06-08T21:13:03Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-06-08T21:27:43Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-06-08T21:44:16Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-06-08T22:04:05Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-06-08T22:29:59Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-06-08T22:45:16Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-06-08T22:59:43Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-06-08T23:09:29Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-06-09T08:59:27Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-06-09T09:31:04Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2026-06-09T10:42:53Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-06-09T11:10:02Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-06-09T11:19:15Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-06-09T11:26:09Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-06-09T11:46:55Z",
+        "downloads": 5
+      },
+      {
+        "publishedAt": "2026-06-09T15:38:15Z",
+        "downloads": 8
+      },
+      {
+        "publishedAt": "2026-06-10T17:12:07Z",
+        "downloads": 12
+      },
+      {
+        "publishedAt": "2026-06-11T23:53:13Z",
+        "downloads": 4
+      },
+      {
+        "publishedAt": "2026-06-12T03:07:09Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2026-06-13T05:54:53Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-06-13T06:30:37Z",
+        "downloads": 13
+      },
+      {
+        "publishedAt": "2026-06-17T08:21:55Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-06-17T08:34:35Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-06-17T08:50:50Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-06-17T09:09:39Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-06-17T09:17:36Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2026-06-18T07:52:59Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-06-18T08:38:43Z",
+        "downloads": 17
+      },
+      {
+        "publishedAt": "2026-06-22T19:48:27Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2026-06-22T20:07:22Z",
+        "downloads": 11
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-06-27T01:53:44.362Z"
+}
