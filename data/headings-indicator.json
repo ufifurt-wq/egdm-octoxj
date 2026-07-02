@@ -1,0 +1,23 @@
+{
+  "plugin": {
+    "totalDownloads": 50,
+    "stargazers": 1,
+    "createdAt": "2026-06-03T16:48:48Z",
+    "latestReleaseAt": "2026-06-03T16:49:10Z",
+    "lastCommitDate": "2026-06-03T16:49:09Z",
+    "commitCountInLast24Months": 1,
+    "totalReleases": 1,
+    "releases": [
+      {
+        "publishedAt": "2026-06-03T16:49:10Z",
+        "downloads": 50
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-07-02T01:50:10.823Z"
+}
