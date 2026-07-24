@@ -1,0 +1,93 @@
+{
+  "plugin": {
+    "totalDownloads": 70,
+    "stargazers": 0,
+    "createdAt": "2026-01-03T13:45:09Z",
+    "latestReleaseAt": "2026-06-21T05:36:35Z",
+    "lastCommitDate": "2026-06-21T05:39:24Z",
+    "commitCountInLast24Months": 43,
+    "totalReleases": 2,
+    "releases": [
+      {
+        "publishedAt": "2026-06-16T00:17:35Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-06-21T05:36:35Z",
+        "downloads": 69
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "feature_request",
+        "createdAt": "2026-06-14T08:33:05Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-06-14T08:33:05Z"
+      },
+      {
+        "label": "feature_request",
+        "createdAt": "2026-06-14T08:33:59Z"
+      },
+      {
+        "label": "feature_request",
+        "createdAt": "2026-06-14T08:33:59Z"
+      }
+    ],
+    "closedIssues": [
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2026-06-14T08:21:39Z",
+        "closedAt": "2026-06-14T08:53:27Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2026-06-14T08:33:04Z",
+        "closedAt": "2026-06-14T08:53:28Z"
+      },
+      {
+        "originalLabel": "documentation",
+        "reason": "completed",
+        "createdAt": "2026-06-14T08:34:00Z",
+        "closedAt": "2026-06-14T14:11:33Z"
+      },
+      {
+        "originalLabel": "documentation",
+        "reason": "completed",
+        "createdAt": "2026-06-14T09:01:10Z",
+        "closedAt": "2026-06-14T13:58:25Z"
+      },
+      {
+        "originalLabel": "documentation",
+        "reason": "completed",
+        "createdAt": "2026-06-14T09:01:37Z",
+        "closedAt": "2026-06-14T13:58:23Z"
+      },
+      {
+        "originalLabel": "documentation",
+        "reason": "completed",
+        "createdAt": "2026-06-14T09:01:44Z",
+        "closedAt": "2026-06-14T13:58:21Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2026-06-14T09:02:01Z",
+        "closedAt": "2026-06-14T13:58:19Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2026-06-14T09:02:16Z",
+        "closedAt": "2026-06-14T13:58:17Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-07-24T01:18:48.900Z"
+}
