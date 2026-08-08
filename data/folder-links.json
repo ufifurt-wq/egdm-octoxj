@@ -1,0 +1,159 @@
+{
+  "plugin": {
+    "totalDownloads": 9994,
+    "stargazers": 27,
+    "createdAt": "2024-11-17T20:18:39Z",
+    "latestReleaseAt": "2026-04-16T16:37:23Z",
+    "lastCommitDate": "2026-04-16T16:37:23Z",
+    "commitCountInLast24Months": 40,
+    "totalReleases": 17,
+    "releases": [
+      {
+        "publishedAt": "2024-11-17T20:20:15Z",
+        "downloads": 365
+      },
+      {
+        "publishedAt": "2025-01-24T19:20:50Z",
+        "downloads": 57
+      },
+      {
+        "publishedAt": "2025-01-26T11:34:06Z",
+        "downloads": 102
+      },
+      {
+        "publishedAt": "2025-02-01T20:44:42Z",
+        "downloads": 441
+      },
+      {
+        "publishedAt": "2025-03-18T20:17:12Z",
+        "downloads": 322
+      },
+      {
+        "publishedAt": "2025-04-07T18:08:56Z",
+        "downloads": 542
+      },
+      {
+        "publishedAt": "2025-05-25T12:08:28Z",
+        "downloads": 10
+      },
+      {
+        "publishedAt": "2025-05-25T12:13:31Z",
+        "downloads": 12
+      },
+      {
+        "publishedAt": "2025-05-25T12:22:25Z",
+        "downloads": 12
+      },
+      {
+        "publishedAt": "2025-05-25T12:48:33Z",
+        "downloads": 13
+      },
+      {
+        "publishedAt": "2025-05-25T13:10:33Z",
+        "downloads": 481
+      },
+      {
+        "publishedAt": "2025-06-27T18:22:42Z",
+        "downloads": 15
+      },
+      {
+        "publishedAt": "2025-06-27T18:29:49Z",
+        "downloads": 3163
+      },
+      {
+        "publishedAt": "2026-03-12T18:12:37Z",
+        "downloads": 329
+      },
+      {
+        "publishedAt": "2026-04-01T19:56:58Z",
+        "downloads": 465
+      },
+      {
+        "publishedAt": "2026-04-10T20:50:18Z",
+        "downloads": 348
+      },
+      {
+        "publishedAt": "2026-04-16T16:37:23Z",
+        "downloads": 3317
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2025-01-10T04:35:13Z",
+        "closedAt": "2025-01-24T19:23:23Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-01-10T17:10:16Z",
+        "closedAt": "2025-01-18T08:30:04Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-01-26T11:04:11Z",
+        "closedAt": "2025-01-26T11:34:58Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-04-05T06:17:43Z",
+        "closedAt": "2025-04-07T18:12:27Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-04-05T06:24:51Z",
+        "closedAt": "2025-04-07T18:12:59Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2025-06-15T15:50:10Z",
+        "closedAt": "2025-06-27T18:30:25Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-12-02T22:02:34Z",
+        "closedAt": "2025-12-02T22:27:11Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-02-08T15:44:02Z",
+        "closedAt": "2026-02-08T15:46:03Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-03-04T06:52:17Z",
+        "closedAt": "2026-03-12T18:13:47Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-04-09T21:03:44Z",
+        "closedAt": "2026-04-10T20:51:55Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2026-04-15T14:34:20Z",
+        "closedAt": "2026-04-16T16:39:01Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": [
+      {
+        "createdAt": "2026-03-31T07:03:50Z",
+        "mergedAt": "2026-04-01T19:52:31Z"
+      }
+    ]
+  },
+  "now": "2026-08-08T00:31:20.482Z"
+}

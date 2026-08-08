@@ -1,0 +1,88 @@
+{
+  "plugin": {
+    "totalDownloads": 800,
+    "stargazers": 2,
+    "createdAt": "2024-05-21T10:17:47Z",
+    "latestReleaseAt": "2026-08-07T09:28:02Z",
+    "lastCommitDate": "2026-08-07T09:28:02Z",
+    "commitCountInLast24Months": 14,
+    "totalReleases": 16,
+    "releases": [
+      {
+        "publishedAt": "2024-05-21T11:20:02Z",
+        "downloads": 8
+      },
+      {
+        "publishedAt": "2024-05-24T15:08:36Z",
+        "downloads": 5
+      },
+      {
+        "publishedAt": "2024-06-07T15:21:46Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2024-06-11T10:36:59Z",
+        "downloads": 30
+      },
+      {
+        "publishedAt": "2024-06-19T07:44:58Z",
+        "downloads": 36
+      },
+      {
+        "publishedAt": "2024-06-26T11:52:10Z",
+        "downloads": 71
+      },
+      {
+        "publishedAt": "2024-08-16T06:46:00Z",
+        "downloads": 30
+      },
+      {
+        "publishedAt": "2024-08-27T08:50:16Z",
+        "downloads": 24
+      },
+      {
+        "publishedAt": "2024-08-28T10:05:50Z",
+        "downloads": 165
+      },
+      {
+        "publishedAt": "2025-04-08T14:44:52Z",
+        "downloads": 104
+      },
+      {
+        "publishedAt": "2025-07-16T09:29:44Z",
+        "downloads": 12
+      },
+      {
+        "publishedAt": "2025-07-16T14:59:28Z",
+        "downloads": 130
+      },
+      {
+        "publishedAt": "2026-03-03T21:09:33Z",
+        "downloads": 135
+      },
+      {
+        "publishedAt": "2026-03-03T21:06:39Z",
+        "downloads": 10
+      },
+      {
+        "publishedAt": "2026-07-21T19:59:52Z",
+        "downloads": 29
+      },
+      {
+        "publishedAt": "2026-08-07T09:28:02Z",
+        "downloads": 0
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": [
+      {
+        "createdAt": "2026-07-06T09:18:28Z",
+        "mergedAt": "2026-08-06T10:47:50Z"
+      }
+    ]
+  },
+  "now": "2026-08-08T00:44:01.103Z"
+}
