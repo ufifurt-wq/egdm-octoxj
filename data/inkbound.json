@@ -1,0 +1,98 @@
+{
+  "plugin": {
+    "totalDownloads": 242,
+    "stargazers": 1,
+    "createdAt": "2026-07-29T05:00:40Z",
+    "latestReleaseAt": "2026-08-17T23:58:43Z",
+    "lastCommitDate": "2026-08-17T23:57:52Z",
+    "commitCountInLast24Months": 90,
+    "totalReleases": 18,
+    "releases": [
+      {
+        "publishedAt": "2026-07-30T01:42:55Z",
+        "downloads": 5
+      },
+      {
+        "publishedAt": "2026-07-30T02:40:25Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-07-30T02:54:18Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2026-07-30T03:29:38Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-07-30T03:38:16Z",
+        "downloads": 5
+      },
+      {
+        "publishedAt": "2026-07-30T06:32:18Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2026-07-30T06:36:23Z",
+        "downloads": 16
+      },
+      {
+        "publishedAt": "2026-07-31T06:17:31Z",
+        "downloads": 8
+      },
+      {
+        "publishedAt": "2026-07-31T11:57:36Z",
+        "downloads": 8
+      },
+      {
+        "publishedAt": "2026-07-31T16:59:03Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2026-08-01T00:37:38Z",
+        "downloads": 36
+      },
+      {
+        "publishedAt": "2026-08-05T10:36:38Z",
+        "downloads": 36
+      },
+      {
+        "publishedAt": "2026-08-10T12:38:18Z",
+        "downloads": 24
+      },
+      {
+        "publishedAt": "2026-08-13T01:56:44Z",
+        "downloads": 6
+      },
+      {
+        "publishedAt": "2026-08-13T02:22:30Z",
+        "downloads": 30
+      },
+      {
+        "publishedAt": "2026-08-16T06:32:37Z",
+        "downloads": 20
+      },
+      {
+        "publishedAt": "2026-08-17T14:37:56Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2026-08-17T23:58:43Z",
+        "downloads": 28
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2026-07-31T10:57:56Z",
+        "closedAt": "2026-07-31T17:00:29Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-08-22T00:16:06.404Z"
+}
