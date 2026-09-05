@@ -1,0 +1,90 @@
+{
+  "plugin": {
+    "totalDownloads": 1169,
+    "stargazers": 17,
+    "createdAt": "2024-08-04T14:13:10Z",
+    "latestReleaseAt": "2026-05-29T15:56:43Z",
+    "lastCommitDate": "2026-05-29T15:55:56Z",
+    "commitCountInLast24Months": 14,
+    "totalReleases": 10,
+    "releases": [
+      {
+        "publishedAt": "2024-08-04T14:23:57Z",
+        "downloads": 30
+      },
+      {
+        "publishedAt": "2024-08-04T14:41:44Z",
+        "downloads": 30
+      },
+      {
+        "publishedAt": "2024-08-05T04:54:08Z",
+        "downloads": 32
+      },
+      {
+        "publishedAt": "2024-08-05T17:17:02Z",
+        "downloads": 70
+      },
+      {
+        "publishedAt": "2024-09-07T13:53:48Z",
+        "downloads": 150
+      },
+      {
+        "publishedAt": "2024-10-27T06:14:55Z",
+        "downloads": 174
+      },
+      {
+        "publishedAt": "2025-02-07T03:16:13Z",
+        "downloads": 382
+      },
+      {
+        "publishedAt": "2026-05-12T05:38:20Z",
+        "downloads": 21
+      },
+      {
+        "publishedAt": "2026-05-12T06:15:41Z",
+        "downloads": 79
+      },
+      {
+        "publishedAt": "2026-05-29T15:56:43Z",
+        "downloads": 201
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-09-07T07:51:16Z",
+        "closedAt": "2024-09-07T13:45:38Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-10-26T12:46:08Z",
+        "closedAt": "2024-10-26T19:29:18Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-10-26T12:52:59Z",
+        "closedAt": "2024-10-26T19:28:03Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-10-26T12:54:13Z",
+        "closedAt": "2024-10-26T18:10:03Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-02-05T17:03:07Z",
+        "closedAt": "2025-02-07T02:36:58Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-09-05T01:27:40.530Z"
+}

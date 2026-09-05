@@ -1,0 +1,266 @@
+{
+  "plugin": {
+    "totalDownloads": 6182,
+    "stargazers": 12,
+    "createdAt": "2023-12-10T18:59:07Z",
+    "latestReleaseAt": "2026-08-31T18:51:50Z",
+    "lastCommitDate": "2026-09-05T01:27:10Z",
+    "commitCountInLast24Months": 232,
+    "totalReleases": 60,
+    "releases": [
+      {
+        "publishedAt": "2023-12-11T05:51:53Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2023-12-11T06:22:20Z",
+        "downloads": 12
+      },
+      {
+        "publishedAt": "2023-12-11T17:10:03Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2023-12-21T22:39:46Z",
+        "downloads": 8
+      },
+      {
+        "publishedAt": "2023-12-22T00:04:32Z",
+        "downloads": 9
+      },
+      {
+        "publishedAt": "2024-01-18T22:09:35Z",
+        "downloads": 9
+      },
+      {
+        "publishedAt": "2024-01-19T08:35:24Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2024-10-18T02:37:00Z",
+        "downloads": 8
+      },
+      {
+        "publishedAt": "2024-11-13T04:53:55Z",
+        "downloads": 6
+      },
+      {
+        "publishedAt": "2024-11-21T04:56:35Z",
+        "downloads": 6
+      },
+      {
+        "publishedAt": "2024-12-25T23:32:52Z",
+        "downloads": 6
+      },
+      {
+        "publishedAt": "2024-12-27T05:03:41Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2025-01-14T06:16:44Z",
+        "downloads": 9
+      },
+      {
+        "publishedAt": "2025-01-21T02:50:46Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2025-01-21T17:39:27Z",
+        "downloads": 9
+      },
+      {
+        "publishedAt": "2025-01-24T15:45:53Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2025-01-31T05:50:42Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2025-02-10T02:00:52Z",
+        "downloads": 6
+      },
+      {
+        "publishedAt": "2025-02-17T04:32:54Z",
+        "downloads": 9
+      },
+      {
+        "publishedAt": "2025-04-07T08:25:54Z",
+        "downloads": 8
+      },
+      {
+        "publishedAt": "2025-04-07T17:16:15Z",
+        "downloads": 6
+      },
+      {
+        "publishedAt": "2025-04-08T01:48:42Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2025-04-08T04:44:02Z",
+        "downloads": 144
+      },
+      {
+        "publishedAt": "2025-05-19T04:23:24Z",
+        "downloads": 32
+      },
+      {
+        "publishedAt": "2025-05-27T01:35:09Z",
+        "downloads": 28
+      },
+      {
+        "publishedAt": "2025-06-02T19:38:23Z",
+        "downloads": 189
+      },
+      {
+        "publishedAt": "2025-08-13T05:57:37Z",
+        "downloads": 16
+      },
+      {
+        "publishedAt": "2025-08-16T04:03:04Z",
+        "downloads": 27
+      },
+      {
+        "publishedAt": "2025-08-19T15:43:33Z",
+        "downloads": 26
+      },
+      {
+        "publishedAt": "2025-08-28T20:42:12Z",
+        "downloads": 10
+      },
+      {
+        "publishedAt": "2025-09-01T07:58:33Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2025-09-02T03:32:54Z",
+        "downloads": 8
+      },
+      {
+        "publishedAt": "2025-09-02T21:29:00Z",
+        "downloads": 9
+      },
+      {
+        "publishedAt": "2025-09-04T02:49:02Z",
+        "downloads": 13
+      },
+      {
+        "publishedAt": "2025-09-14T20:47:56Z",
+        "downloads": 9
+      },
+      {
+        "publishedAt": "2025-09-16T22:02:31Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2025-09-17T08:10:39Z",
+        "downloads": 41
+      },
+      {
+        "publishedAt": "2025-09-30T04:19:12Z",
+        "downloads": 23
+      },
+      {
+        "publishedAt": "2025-10-02T06:02:19Z",
+        "downloads": 41
+      },
+      {
+        "publishedAt": "2025-10-17T06:36:52Z",
+        "downloads": 107
+      },
+      {
+        "publishedAt": "2025-11-24T18:36:42Z",
+        "downloads": 71
+      },
+      {
+        "publishedAt": "2025-12-24T06:21:59Z",
+        "downloads": 77
+      },
+      {
+        "publishedAt": "2026-01-12T19:27:36Z",
+        "downloads": 28
+      },
+      {
+        "publishedAt": "2026-01-17T06:55:34Z",
+        "downloads": 370
+      },
+      {
+        "publishedAt": "2026-03-06T23:02:06Z",
+        "downloads": 1683
+      },
+      {
+        "publishedAt": "2026-05-13T19:17:01Z",
+        "downloads": 748
+      },
+      {
+        "publishedAt": "2026-06-09T08:43:26Z",
+        "downloads": 70
+      },
+      {
+        "publishedAt": "2026-06-11T10:38:00Z",
+        "downloads": 500
+      },
+      {
+        "publishedAt": "2026-06-27T07:53:30Z",
+        "downloads": 384
+      },
+      {
+        "publishedAt": "2026-07-11T13:14:53Z",
+        "downloads": 216
+      },
+      {
+        "publishedAt": "2026-07-20T19:04:01Z",
+        "downloads": 24
+      },
+      {
+        "publishedAt": "2026-07-20T21:04:14Z",
+        "downloads": 25
+      },
+      {
+        "publishedAt": "2026-07-21T01:02:11Z",
+        "downloads": 127
+      },
+      {
+        "publishedAt": "2026-07-24T17:25:51Z",
+        "downloads": 243
+      },
+      {
+        "publishedAt": "2026-08-06T04:20:00Z",
+        "downloads": 117
+      },
+      {
+        "publishedAt": "2026-08-08T18:15:05Z",
+        "downloads": 143
+      },
+      {
+        "publishedAt": "2026-08-14T05:42:31Z",
+        "downloads": 46
+      },
+      {
+        "publishedAt": "2026-08-16T04:46:08Z",
+        "downloads": 196
+      },
+      {
+        "publishedAt": "2026-08-26T14:48:59Z",
+        "downloads": 101
+      },
+      {
+        "publishedAt": "2026-08-31T18:51:50Z",
+        "downloads": 93
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2026-05-24T13:38:32Z",
+        "closedAt": "2026-06-11T13:52:57Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-09-05T01:29:10.114Z"
+}

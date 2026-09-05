@@ -1,0 +1,95 @@
+{
+  "plugin": {
+    "totalDownloads": 4121,
+    "stargazers": 2,
+    "createdAt": "2026-01-12T11:57:33Z",
+    "latestReleaseAt": "2026-08-28T03:52:37Z",
+    "lastCommitDate": "2026-08-28T03:52:30Z",
+    "commitCountInLast24Months": 66,
+    "totalReleases": 19,
+    "releases": [
+      {
+        "publishedAt": "2026-04-13T02:46:52Z",
+        "downloads": 219
+      },
+      {
+        "publishedAt": "2026-05-25T08:33:32Z",
+        "downloads": 219
+      },
+      {
+        "publishedAt": "2026-05-28T07:49:34Z",
+        "downloads": 366
+      },
+      {
+        "publishedAt": "2026-06-25T10:05:56Z",
+        "downloads": 258
+      },
+      {
+        "publishedAt": "2026-07-01T06:39:39Z",
+        "downloads": 220
+      },
+      {
+        "publishedAt": "2026-07-01T06:45:01Z",
+        "downloads": 223
+      },
+      {
+        "publishedAt": "2026-07-01T08:35:14Z",
+        "downloads": 264
+      },
+      {
+        "publishedAt": "2026-07-02T01:39:09Z",
+        "downloads": 263
+      },
+      {
+        "publishedAt": "2026-07-06T04:41:46Z",
+        "downloads": 253
+      },
+      {
+        "publishedAt": "2026-07-09T05:51:25Z",
+        "downloads": 261
+      },
+      {
+        "publishedAt": "2026-07-12T12:44:23Z",
+        "downloads": 346
+      },
+      {
+        "publishedAt": "2026-07-29T08:08:10Z",
+        "downloads": 199
+      },
+      {
+        "publishedAt": "2026-07-30T07:36:21Z",
+        "downloads": 211
+      },
+      {
+        "publishedAt": "2026-08-04T03:46:47Z",
+        "downloads": 153
+      },
+      {
+        "publishedAt": "2026-08-05T01:26:44Z",
+        "downloads": 219
+      },
+      {
+        "publishedAt": "2026-08-13T09:14:51Z",
+        "downloads": 104
+      },
+      {
+        "publishedAt": "2026-08-17T11:59:08Z",
+        "downloads": 93
+      },
+      {
+        "publishedAt": "2026-08-19T03:20:46Z",
+        "downloads": 158
+      },
+      {
+        "publishedAt": "2026-08-28T03:52:37Z",
+        "downloads": 92
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-09-05T01:29:00.177Z"
+}

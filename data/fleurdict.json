@@ -1,0 +1,90 @@
+{
+  "plugin": {
+    "totalDownloads": 100,
+    "stargazers": 2,
+    "createdAt": "2026-08-24T01:22:04Z",
+    "latestReleaseAt": "2026-08-30T08:55:06Z",
+    "lastCommitDate": "2026-08-30T08:54:48Z",
+    "commitCountInLast24Months": 32,
+    "totalReleases": 16,
+    "releases": [
+      {
+        "publishedAt": "2026-08-24T09:17:31Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-08-25T12:07:54Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-08-25T14:23:17Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-08-25T16:20:54Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-08-26T02:24:13Z",
+        "downloads": 5
+      },
+      {
+        "publishedAt": "2026-08-26T10:16:33Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-08-26T12:43:09Z",
+        "downloads": 4
+      },
+      {
+        "publishedAt": "2026-08-26T13:22:31Z",
+        "downloads": 4
+      },
+      {
+        "publishedAt": "2026-08-26T14:50:15Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2026-08-26T15:04:25Z",
+        "downloads": 6
+      },
+      {
+        "publishedAt": "2026-08-27T02:31:05Z",
+        "downloads": 6
+      },
+      {
+        "publishedAt": "2026-08-27T06:12:03Z",
+        "downloads": 4
+      },
+      {
+        "publishedAt": "2026-08-27T08:25:43Z",
+        "downloads": 6
+      },
+      {
+        "publishedAt": "2026-08-27T14:30:33Z",
+        "downloads": 3
+      },
+      {
+        "publishedAt": "2026-08-27T14:38:58Z",
+        "downloads": 26
+      },
+      {
+        "publishedAt": "2026-08-30T08:55:06Z",
+        "downloads": 29
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [],
+    "openPRs": [
+      {
+        "createdAt": "2026-09-04T06:47:57Z"
+      },
+      {
+        "createdAt": "2026-09-04T06:48:00Z"
+      }
+    ],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-09-05T01:30:31.201Z"
+}
