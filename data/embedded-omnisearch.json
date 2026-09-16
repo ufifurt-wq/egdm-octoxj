@@ -1,0 +1,111 @@
+{
+  "plugin": {
+    "totalDownloads": 3119,
+    "stargazers": 3,
+    "createdAt": "2026-05-09T12:53:29Z",
+    "latestReleaseAt": "2026-07-31T12:14:43Z",
+    "lastCommitDate": "2026-07-31T12:14:43Z",
+    "commitCountInLast24Months": 81,
+    "totalReleases": 8,
+    "releases": [
+      {
+        "publishedAt": "2026-05-09T14:21:11Z",
+        "downloads": 154
+      },
+      {
+        "publishedAt": "2026-05-11T20:24:33Z",
+        "downloads": 134
+      },
+      {
+        "publishedAt": "2026-05-12T15:15:36Z",
+        "downloads": 136
+      },
+      {
+        "publishedAt": "2026-05-13T08:10:19Z",
+        "downloads": 144
+      },
+      {
+        "publishedAt": "2026-05-13T20:39:42Z",
+        "downloads": 154
+      },
+      {
+        "publishedAt": "2026-05-14T18:55:10Z",
+        "downloads": 162
+      },
+      {
+        "publishedAt": "2026-05-16T10:42:47Z",
+        "downloads": 687
+      },
+      {
+        "publishedAt": "2026-07-31T12:14:43Z",
+        "downloads": 1548
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "bug",
+        "createdAt": "2026-09-07T15:23:06Z"
+      }
+    ],
+    "closedIssues": [
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2026-05-10T11:39:18Z",
+        "closedAt": "2026-05-11T19:55:16Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2026-05-10T11:41:53Z",
+        "closedAt": "2026-05-11T20:00:44Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2026-05-11T10:54:19Z",
+        "closedAt": "2026-05-11T20:06:15Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2026-05-12T10:31:22Z",
+        "closedAt": "2026-05-12T14:48:26Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-05-13T05:22:37Z",
+        "closedAt": "2026-05-13T05:51:30Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-05-13T06:43:32Z",
+        "closedAt": "2026-05-13T07:15:47Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-05-13T15:55:27Z",
+        "closedAt": "2026-05-13T19:05:18Z"
+      },
+      {
+        "originalLabel": "documentation",
+        "reason": "completed",
+        "createdAt": "2026-05-13T16:01:56Z",
+        "closedAt": "2026-05-13T19:05:05Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-06-01T23:49:17Z",
+        "closedAt": "2026-07-02T17:58:43Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-09-16T01:42:40.084Z"
+}
