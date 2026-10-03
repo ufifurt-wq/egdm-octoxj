@@ -1,0 +1,67 @@
+{
+  "plugin": {
+    "totalDownloads": 130,
+    "stargazers": 0,
+    "createdAt": "2026-08-27T21:21:47Z",
+    "latestReleaseAt": "2026-08-29T16:59:52Z",
+    "lastCommitDate": "2026-09-29T10:50:04Z",
+    "commitCountInLast24Months": 10,
+    "totalReleases": 1,
+    "releases": [
+      {
+        "publishedAt": "2026-08-29T16:59:52Z",
+        "downloads": 130
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [],
+    "openPRs": [
+      {
+        "createdAt": "2026-08-27T21:22:30Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:22:36Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:22:40Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:22:41Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:22:51Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:22:56Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:23:04Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:23:12Z"
+      },
+      {
+        "createdAt": "2026-09-10T07:43:32Z"
+      },
+      {
+        "createdAt": "2026-09-29T10:50:05Z"
+      }
+    ],
+    "closedPRs": [
+      {
+        "createdAt": "2026-08-27T21:30:35Z",
+        "closedAt": "2026-08-29T16:17:32Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:30:45Z",
+        "closedAt": "2026-08-29T16:17:43Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:30:48Z",
+        "closedAt": "2026-08-29T16:17:39Z"
+      }
+    ],
+    "mergedPRs": []
+  },
+  "now": "2026-10-03T02:21:00.632Z"
+}
