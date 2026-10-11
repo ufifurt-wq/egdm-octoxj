@@ -1,0 +1,88 @@
+{
+  "plugin": {
+    "totalDownloads": 1689,
+    "stargazers": 0,
+    "createdAt": "2026-08-30T08:56:21Z",
+    "latestReleaseAt": "2026-09-29T07:22:37Z",
+    "lastCommitDate": "2026-09-29T07:21:58Z",
+    "commitCountInLast24Months": 20,
+    "totalReleases": 16,
+    "releases": [
+      {
+        "publishedAt": "2026-08-30T08:57:02Z",
+        "downloads": 16
+      },
+      {
+        "publishedAt": "2026-08-30T19:36:50Z",
+        "downloads": 30
+      },
+      {
+        "publishedAt": "2026-08-31T12:05:15Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2026-08-31T12:50:52Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2026-08-31T13:01:02Z",
+        "downloads": 15
+      },
+      {
+        "publishedAt": "2026-08-31T15:09:57Z",
+        "downloads": 73
+      },
+      {
+        "publishedAt": "2026-09-02T10:32:10Z",
+        "downloads": 157
+      },
+      {
+        "publishedAt": "2026-09-08T07:23:16Z",
+        "downloads": 118
+      },
+      {
+        "publishedAt": "2026-09-08T08:21:01Z",
+        "downloads": 122
+      },
+      {
+        "publishedAt": "2026-09-08T09:38:26Z",
+        "downloads": 126
+      },
+      {
+        "publishedAt": "2026-09-09T03:53:41Z",
+        "downloads": 153
+      },
+      {
+        "publishedAt": "2026-09-13T03:30:33Z",
+        "downloads": 113
+      },
+      {
+        "publishedAt": "2026-09-13T04:19:56Z",
+        "downloads": 112
+      },
+      {
+        "publishedAt": "2026-09-13T04:47:20Z",
+        "downloads": 156
+      },
+      {
+        "publishedAt": "2026-09-16T03:08:56Z",
+        "downloads": 178
+      },
+      {
+        "publishedAt": "2026-09-29T07:22:37Z",
+        "downloads": 298
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "feature_request",
+        "createdAt": "2026-09-28T17:31:18Z"
+      }
+    ],
+    "closedIssues": [],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-10-11T02:28:56.750Z"
+}
