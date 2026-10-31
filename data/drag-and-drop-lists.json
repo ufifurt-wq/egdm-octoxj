@@ -1,0 +1,89 @@
+{
+  "plugin": {
+    "totalDownloads": 335,
+    "stargazers": 1,
+    "createdAt": "2026-08-27T21:21:47Z",
+    "latestReleaseAt": "2026-10-26T14:53:11Z",
+    "lastCommitDate": "2026-10-26T14:51:54Z",
+    "commitCountInLast24Months": 12,
+    "totalReleases": 3,
+    "releases": [
+      {
+        "publishedAt": "2026-08-29T16:59:52Z",
+        "downloads": 244
+      },
+      {
+        "publishedAt": "2026-10-24T19:53:39Z",
+        "downloads": 46
+      },
+      {
+        "publishedAt": "2026-10-26T14:53:11Z",
+        "downloads": 45
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [],
+    "openPRs": [
+      {
+        "createdAt": "2026-08-27T21:22:30Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:22:36Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:22:40Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:22:41Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:22:51Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:22:56Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:23:04Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:23:12Z"
+      },
+      {
+        "createdAt": "2026-10-18T13:29:12Z"
+      },
+      {
+        "createdAt": "2026-10-25T01:22:25Z"
+      },
+      {
+        "createdAt": "2026-10-25T01:22:29Z"
+      },
+      {
+        "createdAt": "2026-10-25T01:22:30Z"
+      }
+    ],
+    "closedPRs": [
+      {
+        "createdAt": "2026-08-27T21:30:35Z",
+        "closedAt": "2026-08-29T16:17:32Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:30:45Z",
+        "closedAt": "2026-08-29T16:17:43Z"
+      },
+      {
+        "createdAt": "2026-08-27T21:30:48Z",
+        "closedAt": "2026-08-29T16:17:39Z"
+      },
+      {
+        "createdAt": "2026-09-10T07:43:32Z",
+        "closedAt": "2026-10-25T01:22:37Z"
+      },
+      {
+        "createdAt": "2026-09-29T10:50:05Z",
+        "closedAt": "2026-10-25T01:22:33Z"
+      }
+    ],
+    "mergedPRs": []
+  },
+  "now": "2026-10-31T02:51:46.764Z"
+}
