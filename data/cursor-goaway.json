@@ -1,0 +1,85 @@
+{
+  "plugin": {
+    "totalDownloads": 27836,
+    "stargazers": 14,
+    "createdAt": "2023-11-06T15:15:23Z",
+    "latestReleaseAt": "2025-12-03T10:08:11Z",
+    "lastCommitDate": "2025-12-03T10:08:11Z",
+    "commitCountInLast24Months": 8,
+    "totalReleases": 6,
+    "releases": [
+      {
+        "publishedAt": "2023-11-06T15:24:16Z",
+        "downloads": 33
+      },
+      {
+        "publishedAt": "2023-11-14T14:32:56Z",
+        "downloads": 23004
+      },
+      {
+        "publishedAt": "2024-01-30T07:18:27Z",
+        "downloads": 555
+      },
+      {
+        "publishedAt": "2024-03-17T14:05:09Z",
+        "downloads": 1555
+      },
+      {
+        "publishedAt": "2025-09-10T11:11:49Z",
+        "downloads": 400
+      },
+      {
+        "publishedAt": "2025-12-03T10:08:11Z",
+        "downloads": 2289
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "bug",
+        "createdAt": "2024-12-09T16:56:45Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-02-25T16:19:43Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-05-11T16:06:52Z"
+      }
+    ],
+    "closedIssues": [
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-02-12T07:55:15Z",
+        "closedAt": "2024-03-17T14:20:19Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-03-15T17:12:34Z",
+        "closedAt": "2024-03-17T14:21:46Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2024-11-29T07:55:41Z",
+        "closedAt": "2025-09-10T11:14:09Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2025-09-20T02:54:58Z",
+        "closedAt": "2025-12-03T10:12:18Z"
+      }
+    ],
+    "openPRs": [
+      {
+        "createdAt": "2026-05-11T16:13:48Z"
+      }
+    ],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-11-14T03:37:41.058Z"
+}

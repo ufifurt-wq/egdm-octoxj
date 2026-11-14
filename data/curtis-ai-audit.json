@@ -1,0 +1,89 @@
+{
+  "plugin": {
+    "totalDownloads": 48,
+    "stargazers": 0,
+    "createdAt": "2026-10-12T11:41:13Z",
+    "latestReleaseAt": "2026-10-16T23:10:35Z",
+    "lastCommitDate": "2026-11-12T18:37:19Z",
+    "commitCountInLast24Months": 50,
+    "totalReleases": 6,
+    "releases": [
+      {
+        "publishedAt": "2026-10-12T12:01:57Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-10-12T12:02:07Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-10-12T12:11:05Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-10-12T13:48:22Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2026-10-14T19:20:59Z",
+        "downloads": 8
+      },
+      {
+        "publishedAt": "2026-10-16T23:10:35Z",
+        "downloads": 29
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [],
+    "openPRs": [],
+    "closedPRs": [
+      {
+        "createdAt": "2026-10-19T15:45:51Z",
+        "closedAt": "2026-11-02T15:47:01Z"
+      }
+    ],
+    "mergedPRs": [
+      {
+        "createdAt": "2026-10-14T15:30:46Z",
+        "mergedAt": "2026-10-16T18:39:54Z"
+      },
+      {
+        "createdAt": "2026-10-14T15:30:46Z",
+        "mergedAt": "2026-10-16T18:39:57Z"
+      },
+      {
+        "createdAt": "2026-10-14T15:30:57Z",
+        "mergedAt": "2026-10-16T18:40:01Z"
+      },
+      {
+        "createdAt": "2026-10-14T15:31:26Z",
+        "mergedAt": "2026-10-16T18:41:13Z"
+      },
+      {
+        "createdAt": "2026-10-14T15:31:40Z",
+        "mergedAt": "2026-10-16T20:36:26Z"
+      },
+      {
+        "createdAt": "2026-10-14T15:31:46Z",
+        "mergedAt": "2026-10-16T20:36:57Z"
+      },
+      {
+        "createdAt": "2026-10-19T15:46:01Z",
+        "mergedAt": "2026-11-12T18:37:11Z"
+      },
+      {
+        "createdAt": "2026-11-02T15:47:07Z",
+        "mergedAt": "2026-11-02T20:55:15Z"
+      },
+      {
+        "createdAt": "2026-11-09T15:47:08Z",
+        "mergedAt": "2026-11-12T13:15:04Z"
+      },
+      {
+        "createdAt": "2026-11-11T15:44:46Z",
+        "mergedAt": "2026-11-12T13:15:39Z"
+      }
+    ]
+  },
+  "now": "2026-11-14T03:37:44.763Z"
+}
