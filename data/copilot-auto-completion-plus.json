@@ -1,0 +1,166 @@
+{
+  "plugin": {
+    "totalDownloads": 1532,
+    "stargazers": 7,
+    "createdAt": "2026-05-29T13:19:19Z",
+    "latestReleaseAt": "2026-08-07T06:14:47Z",
+    "lastCommitDate": "2026-08-07T06:13:34Z",
+    "commitCountInLast24Months": 29,
+    "totalReleases": 18,
+    "releases": [
+      {
+        "publishedAt": "2026-05-29T13:28:50Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2026-05-29T13:57:13Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2026-05-29T14:06:11Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2026-05-29T14:21:53Z",
+        "downloads": 19
+      },
+      {
+        "publishedAt": "2026-05-30T08:27:29Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2026-05-30T08:38:16Z",
+        "downloads": 13
+      },
+      {
+        "publishedAt": "2026-05-30T09:30:28Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2026-05-30T10:27:48Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2026-05-30T10:36:12Z",
+        "downloads": 35
+      },
+      {
+        "publishedAt": "2026-05-30T10:48:02Z",
+        "downloads": 38
+      },
+      {
+        "publishedAt": "2026-05-30T11:35:31Z",
+        "downloads": 35
+      },
+      {
+        "publishedAt": "2026-05-30T11:42:54Z",
+        "downloads": 456
+      },
+      {
+        "publishedAt": "2026-08-03T12:33:25Z",
+        "downloads": 31
+      },
+      {
+        "publishedAt": "2026-08-03T14:02:00Z",
+        "downloads": 31
+      },
+      {
+        "publishedAt": "2026-08-03T14:45:50Z",
+        "downloads": 30
+      },
+      {
+        "publishedAt": "2026-08-03T18:23:38Z",
+        "downloads": 56
+      },
+      {
+        "publishedAt": "2026-08-05T12:20:53Z",
+        "downloads": 51
+      },
+      {
+        "publishedAt": "2026-08-07T06:14:47Z",
+        "downloads": 679
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "feature_request",
+        "createdAt": "2026-08-06T18:43:32Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-08-08T05:00:06Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-08-17T09:07:51Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-11-12T20:24:43Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-11-16T15:05:25Z"
+      }
+    ],
+    "closedIssues": [
+      {
+        "originalLabel": "bug",
+        "reason": "not_planned",
+        "createdAt": "2026-05-31T21:55:51Z",
+        "closedAt": "2026-08-03T11:52:40Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "duplicate",
+        "createdAt": "2026-06-01T04:08:14Z",
+        "closedAt": "2026-08-03T11:22:40Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-06-21T08:02:44Z",
+        "closedAt": "2026-08-03T11:47:36Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "not_planned",
+        "createdAt": "2026-07-03T19:36:32Z",
+        "closedAt": "2026-08-03T11:22:57Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "not_planned",
+        "createdAt": "2026-07-06T12:23:42Z",
+        "closedAt": "2026-08-03T11:23:13Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "not_planned",
+        "createdAt": "2026-08-01T04:30:12Z",
+        "closedAt": "2026-08-03T11:23:11Z"
+      },
+      {
+        "originalLabel": "other",
+        "reason": "not_planned",
+        "createdAt": "2026-08-02T06:26:37Z",
+        "closedAt": "2026-08-03T11:23:19Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2026-08-04T16:15:42Z",
+        "closedAt": "2026-08-07T06:39:04Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [
+      {
+        "createdAt": "2026-07-10T17:06:41Z",
+        "closedAt": "2026-07-10T17:07:19Z"
+      }
+    ],
+    "mergedPRs": []
+  },
+  "now": "2026-11-28T05:00:12.389Z"
+}
